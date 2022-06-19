@@ -21,8 +21,10 @@
 
 [Lucas Vilaboim](https://www.linkedin.com/in/vilaboim).
 
+[Karen Santos](https://www.linkedin.com/in/karenasantos).
 
-### Github dos Mestres
+
+### Github/Gitlab dos Mestres
 
 https://github.com/cami-la
 
@@ -33,6 +35,8 @@ https://github.com/julianazanelatto
 https://github.com/Perkles
 
 https://github.com/vilaboim
+
+https://gitlab.com/karensantos
 
 ### Links Uteis
 
