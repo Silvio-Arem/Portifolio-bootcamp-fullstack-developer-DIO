@@ -23,6 +23,12 @@
 
 [Karen Santos](https://www.linkedin.com/in/karenasantos).
 
+[Roberto Carlo Camacho Fernandez](https://www.linkedin.com/in/developer-roberto-camacho).
+
+[Geovana Ribeiro](https://www.linkedin.com/in/geovanasribeiro).
+
+[Caio Longo](https://www.linkedin.com/in/caiolongo).
+
 
 ### Github/Gitlab dos Mestres
 
@@ -38,6 +44,7 @@ https://github.com/vilaboim
 
 https://gitlab.com/karensantos
 
+
 ### Links Uteis
 
 [Primeira Mentoria: Aula Inaugural](https://www.youtube.com/watch?v=mVmzdqa79dE).
@@ -50,4 +57,5 @@ https://gitlab.com/karensantos
 
 [Como Colocar Um Projeto No Ar Usando o Github](https://www.alura.com.br/artigos/como-colocar-projeto-no-ar-com-github-pages?gclid=CjwKCAjwnZaVBhA6EiwAVVyv9NTnvTe1j9vipCL772NXsDTYWDSv2WNpEqekxwIZfUOXLWY928cKvhoCmbQQAvD_BwE)
 
+[Terceira Mentoria: Como criar componentes reutilizáveis em Angular](https://www.youtube.com/watch?v=KImNNTuzhwQ)
 
