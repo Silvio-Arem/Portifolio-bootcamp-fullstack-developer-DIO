@@ -8,6 +8,8 @@
 
 - [Pagina criada com o uso da ferramenta Flexbox](https://github.com/Silvio-Arem/projeto-Flexbox-bootcamp-fullstack-developer-DIO)
 
+- [Recriando a página de login do Instagram com Flexbox e responsividade](https://github.com/Silvio-Arem/projeto-instagram-bootcamp-fullstack-developer-DIO/tree/main)
+
 ### Contatos Linkedin
 
 - [Iglá Generoso](https://www.linkedin.com/in/iglageneroso).
