@@ -2,6 +2,8 @@
 
 ## *Bootcamp Santander FullStack Developer 2022*
 
+![Logo Bootcamp](/logo-bootcamp.png)
+
 ### Projetos:
 
 - [Introdução ao HTML](https://github.com/Silvio-Arem/curso-introducao-html)
@@ -9,6 +11,8 @@
 - [Pagina criada com o uso da ferramenta Flexbox](https://github.com/Silvio-Arem/projeto-Flexbox-bootcamp-fullstack-developer-DIO)
 
 - [Recriando a página de login do Instagram com Flexbox e responsividade](https://github.com/Silvio-Arem/projeto-instagram-bootcamp-fullstack-developer-DIO/tree/main)
+
+- [Contador e to do list usando JavaScript](https://github.com/Silvio-Arem/fundamentos-javascript-bootcamp-fullstack-developer-DIO)
 
 ### Contatos Linkedin
 
@@ -38,6 +42,8 @@
 
 - [Caio Longo](https://www.linkedin.com/in/caiolongo).
 
+- [Stephany Nusch](https://www.linkedin.com/in/stephanynusch).
+
 
 
 ### Github/Gitlab dos Mestres
@@ -54,6 +60,7 @@
 
 - https://gitlab.com/karensantos
 
+- https://github.com/stebsnusch
 
 
 ### Links Uteis
@@ -70,3 +77,4 @@
 
 - [Terceira Mentoria: Como criar componentes reutilizáveis em Angular](https://www.youtube.com/watch?v=KImNNTuzhwQ).
 
+- [Stack Overflow](https://stackoverflow.com).
