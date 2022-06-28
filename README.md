@@ -14,6 +14,8 @@
 
 - [Contador e to do list usando JavaScript](https://github.com/Silvio-Arem/fundamentos-javascript-bootcamp-fullstack-developer-DIO)
 
+- [Testando sintaxes e operadores](https://github.com/Silvio-Arem/sintaxe-e-operadores-bootcamp-fullstack-developer-dio)
+
 ### Contatos Linkedin
 
 - [Iglá Generoso](https://www.linkedin.com/in/iglageneroso).
