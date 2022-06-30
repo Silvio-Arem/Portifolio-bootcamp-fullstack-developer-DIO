@@ -16,6 +16,8 @@
 
 - [Testando sintaxes e operadores](https://github.com/Silvio-Arem/sintaxe-e-operadores-bootcamp-fullstack-developer-dio)
 
+- [Variáveis e tipos](https://github.com/Silvio-Arem/variaveis-e-tipos-bootcamp-fullstack-developer-dio)
+
 ### Contatos Linkedin
 
 - [Iglá Generoso](https://www.linkedin.com/in/iglageneroso).
