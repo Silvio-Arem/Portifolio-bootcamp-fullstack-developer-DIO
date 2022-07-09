@@ -18,6 +18,8 @@
 
 - [Variáveis e tipos](https://github.com/Silvio-Arem/variaveis-e-tipos-bootcamp-fullstack-developer-dio)
 
+- [Funções](https://github.com/Silvio-Arem/funcoes-bootcamp-fullstack-developer-dio)
+
 ### Contatos Linkedin
 
 - [Iglá Generoso](https://www.linkedin.com/in/iglageneroso).
