@@ -8,17 +8,19 @@
 
 - [Introdução ao HTML](https://github.com/Silvio-Arem/curso-introducao-html)
 
-- [Pagina criada com o uso da ferramenta Flexbox](https://github.com/Silvio-Arem/projeto-Flexbox-bootcamp-fullstack-developer-DIO)
+- [Pagina Criada com o Uso da Ferramenta Flexbox](https://github.com/Silvio-Arem/projeto-Flexbox-bootcamp-fullstack-developer-DIO)
 
-- [Recriando a página de login do Instagram com Flexbox e responsividade](https://github.com/Silvio-Arem/projeto-instagram-bootcamp-fullstack-developer-DIO/tree/main)
+- [Recriando a Página de Login do Instagram com Flexbox e Responsividade](https://github.com/Silvio-Arem/projeto-instagram-bootcamp-fullstack-developer-DIO/tree/main)
 
-- [Contador e to do list usando JavaScript](https://github.com/Silvio-Arem/fundamentos-javascript-bootcamp-fullstack-developer-DIO)
+- [Contador e To Do List Usando JavaScript](https://github.com/Silvio-Arem/fundamentos-javascript-bootcamp-fullstack-developer-DIO)
 
-- [Testando sintaxes e operadores](https://github.com/Silvio-Arem/sintaxe-e-operadores-bootcamp-fullstack-developer-dio)
+- [Testando Sintaxes e Operadores](https://github.com/Silvio-Arem/sintaxe-e-operadores-bootcamp-fullstack-developer-dio)
 
-- [Variáveis e tipos](https://github.com/Silvio-Arem/variaveis-e-tipos-bootcamp-fullstack-developer-dio)
+- [Variáveis e Tipos](https://github.com/Silvio-Arem/variaveis-e-tipos-bootcamp-fullstack-developer-dio)
 
 - [Funções](https://github.com/Silvio-Arem/funcoes-bootcamp-fullstack-developer-dio)
+
+- [Coleções Chaveadas (Map e Set)](https://github.com/Silvio-Arem/colecoes-chaveadas-bootcamp-fullstack-developer-dio)
 
 ### Contatos Linkedin
 
