@@ -22,6 +22,8 @@
 
 - [Coleções Chaveadas (Map e Set)](https://github.com/Silvio-Arem/colecoes-chaveadas-bootcamp-fullstack-developer-dio)
 
+- [Métodos: map, filter e reduce](https://github.com/Silvio-Arem/map-filter-reduce-bootcamp-fullstack-developer-dio)
+
 ### Contatos Linkedin
 
 - [Iglá Generoso](https://www.linkedin.com/in/iglageneroso).
