@@ -24,6 +24,8 @@
 
 - [Métodos: map, filter e reduce](https://github.com/Silvio-Arem/map-filter-reduce-bootcamp-fullstack-developer-dio)
 
+- [Tratamento de erros no Js](https://github.com/Silvio-Arem/debugging-e-error-handling-bootcamp-fullstack-developer-dio)
+
 ### Contatos Linkedin
 
 - [Iglá Generoso](https://www.linkedin.com/in/iglageneroso).
@@ -88,3 +90,11 @@
 - [Terceira Mentoria: Como criar componentes reutilizáveis em Angular](https://www.youtube.com/watch?v=KImNNTuzhwQ).
 
 - [Stack Overflow](https://stackoverflow.com).
+
+- [Objeto Error](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Error)
+
+- [instanceof](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/instanceof)
+
+- [typeof](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/typeof)
+
+- [try...catch](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/try...catch)
