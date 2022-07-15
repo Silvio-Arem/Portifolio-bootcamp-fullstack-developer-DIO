@@ -26,6 +26,8 @@
 
 - [Tratamento de erros no Js](https://github.com/Silvio-Arem/debugging-e-error-handling-bootcamp-fullstack-developer-dio)
 
+- [Javascript Assíncrono](https://github.com/Silvio-Arem/javascript-assincrono-bootcamp-fullstack-developer-dio)
+
 ### Contatos Linkedin
 
 - [Iglá Generoso](https://www.linkedin.com/in/iglageneroso).
