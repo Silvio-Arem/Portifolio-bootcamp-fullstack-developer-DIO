@@ -30,6 +30,8 @@
 
 - [Orientação a Objetos](https://github.com/Silvio-Arem/orientacao-a-objetos-bootcamp-fullstack-developer-dio)
 
+- [Moduos](https://github.com/Silvio-Arem/modulos-bootcamp-fullstack-developer-dio)
+
 ### Contatos Linkedin
 
 - [Iglá Generoso](https://www.linkedin.com/in/iglageneroso).
