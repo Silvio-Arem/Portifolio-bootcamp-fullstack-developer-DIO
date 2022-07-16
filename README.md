@@ -28,6 +28,8 @@
 
 - [Javascript Assíncrono](https://github.com/Silvio-Arem/javascript-assincrono-bootcamp-fullstack-developer-dio)
 
+- [Orientação a Objetos](https://github.com/Silvio-Arem/orientacao-a-objetos-bootcamp-fullstack-developer-dio)
+
 ### Contatos Linkedin
 
 - [Iglá Generoso](https://www.linkedin.com/in/iglageneroso).
