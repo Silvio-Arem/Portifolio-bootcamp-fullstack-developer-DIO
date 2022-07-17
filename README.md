@@ -32,6 +32,8 @@
 
 - [Moduos](https://github.com/Silvio-Arem/modulos-bootcamp-fullstack-developer-dio)
 
+- [Manipulando o D.O.M](https://github.com/Silvio-Arem/DOM-bootcamp-fullstack-developer-dio)
+
 ### Contatos Linkedin
 
 - [Iglá Generoso](https://www.linkedin.com/in/iglageneroso).
