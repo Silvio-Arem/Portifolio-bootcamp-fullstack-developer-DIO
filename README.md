@@ -66,6 +66,8 @@
 
 - [Wiley Marques](https://www.linkedin.com/in/wilmarques).
 
+- [Douglas Araujo de Moura](https://www.linkedin.com/in/dougmoura).
+
 ### Github/Gitlab dos Mestres
 
 - https://github.com/cami-la
@@ -83,6 +85,8 @@
 - https://github.com/stebsnusch
 
 - https://github.com/wilmarques
+
+- https://github.com/douglasdemoura
 
 ### Links Uteis
 
@@ -108,5 +112,6 @@
 
 - [try...catch](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/try...catch)
 
-- [Quarta Mentoria: Consumindo APIs a partir de front-end Angular com um back-end Java
-](https://www.youtube.com/watch?v=ILW1PBqiBuk)
+- [Quarta Mentoria: Consumindo APIs a partir de front-end Angular com um back-end Java](https://www.youtube.com/watch?v=ILW1PBqiBuk)
+
+- [Site do instrutor de TypeScript Douglas Moura](https://douglasmoura.dev/)
