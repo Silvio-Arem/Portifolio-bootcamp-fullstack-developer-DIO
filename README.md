@@ -34,6 +34,8 @@
 
 - [Manipulando o D.O.M](https://github.com/Silvio-Arem/DOM-bootcamp-fullstack-developer-dio)
 
+- [Desafio de Projeto TypeScript](https://github.com/Silvio-Arem/Desafio-Projeto-Bootcamp-Fullstack-Developer-DIO)
+
 ### Contatos Linkedin
 
 - [Iglá Generoso](https://www.linkedin.com/in/iglageneroso).
