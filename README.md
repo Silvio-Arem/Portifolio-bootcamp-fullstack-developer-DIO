@@ -1,42 +1,49 @@
 # Portifolio
 
-## *Bootcamp Santander FullStack Developer 2022*
+## Bootcamp Santander FullStack Developer 2022
 
 ![Logo Bootcamp](/logo-bootcamp.png)
 
+### Descrição:
+
+Este Repositório refere-se ao Bootcamp Santander Fullstack Developer DIO 2022, ele tem o propósito de servir como uma espécie de Portfólio contendo os projetos (atividades, desafios e exercicios propostos), contatos (linkedin e GitHub dos mestres e todos os envolvidos), links importantes e os certificados de conclusão.
+Ele será atualizado sempre que o progresso no Bootcamp for avançando.
+Espero que gostem de tudo que veram aqui!  
+
 ### Projetos:
 
-- [Introdução ao HTML](https://github.com/Silvio-Arem/curso-introducao-html)
+- Veja tudo o que foi construido com o curso de Introdução ao HTML clicando: [aqui](https://github.com/Silvio-Arem/curso-introducao-html).
 
-- [Pagina Criada com o Uso da Ferramenta Flexbox](https://github.com/Silvio-Arem/projeto-Flexbox-bootcamp-fullstack-developer-DIO)
+- Pagina criada com o uso da ferramenta Flexbox como raiz da sua estilização, confira [aqui](https://github.com/Silvio-Arem/projeto-Flexbox-bootcamp-fullstack-developer-DIO).
 
-- [Recriando a Página de Login do Instagram com Flexbox e Responsividade](https://github.com/Silvio-Arem/projeto-instagram-bootcamp-fullstack-developer-DIO/tree/main)
+- Recriando a página de login do Instagram com Flexbox e Responsividade ficou muito bacana! Clique [aqui](https://github.com/Silvio-Arem/projeto-instagram-bootcamp-fullstack-developer-DIO/tree/main) e confira.
 
-- [Contador e To Do List Usando JavaScript](https://github.com/Silvio-Arem/fundamentos-javascript-bootcamp-fullstack-developer-DIO)
+- Atividades Práticas com o uso do JavaScript: 
+   - [Contador e To Do List](https://github.com/Silvio-Arem/fundamentos-javascript-bootcamp-fullstack-developer-DIO)
 
-- [Testando Sintaxes e Operadores](https://github.com/Silvio-Arem/sintaxe-e-operadores-bootcamp-fullstack-developer-dio)
+   - [Testando Sintaxes e Operadores](https://github.com/Silvio-Arem/sintaxe-e-operadores-bootcamp-fullstack-developer-dio)
 
-- [Variáveis e Tipos](https://github.com/Silvio-Arem/variaveis-e-tipos-bootcamp-fullstack-developer-dio)
+   - [Variáveis e Tipos](https://github.com/Silvio-Arem/variaveis-e-tipos-bootcamp-fullstack-developer-dio)
 
-- [Funções](https://github.com/Silvio-Arem/funcoes-bootcamp-fullstack-developer-dio)
+   - [Funções](https://github.com/Silvio-Arem/funcoes-bootcamp-fullstack-developer-dio)
 
-- [Coleções Chaveadas (Map e Set)](https://github.com/Silvio-Arem/colecoes-chaveadas-bootcamp-fullstack-developer-dio)
+   - [Coleções Chaveadas (Map e Set)](https://github.com/Silvio-Arem/colecoes-chaveadas-bootcamp-fullstack-developer-dio)
 
-- [Métodos: map, filter e reduce](https://github.com/Silvio-Arem/map-filter-reduce-bootcamp-fullstack-developer-dio)
+   - [Métodos: map, filter e reduce](https://github.com/Silvio-Arem/map-filter-reduce-bootcamp-fullstack-developer-dio)
 
-- [Tratamento de erros no Js](https://github.com/Silvio-Arem/debugging-e-error-handling-bootcamp-fullstack-developer-dio)
+   - [Tratamento de erros no Js](https://github.com/Silvio-Arem/debugging-e-error-handling-bootcamp-fullstack-developer-dio)
 
-- [Javascript Assíncrono](https://github.com/Silvio-Arem/javascript-assincrono-bootcamp-fullstack-developer-dio)
+   - [Javascript Assíncrono](https://github.com/Silvio-Arem/javascript-assincrono-bootcamp-fullstack-developer-dio)
 
-- [Orientação a Objetos](https://github.com/Silvio-Arem/orientacao-a-objetos-bootcamp-fullstack-developer-dio)
+   - [Orientação a Objetos](https://github.com/Silvio-Arem/orientacao-a-objetos-bootcamp-fullstack-developer-dio)
 
-- [Moduos](https://github.com/Silvio-Arem/modulos-bootcamp-fullstack-developer-dio)
+   - [Moduos](https://github.com/Silvio-Arem/modulos-bootcamp-fullstack-developer-dio)
 
-- [Manipulando o D.O.M](https://github.com/Silvio-Arem/DOM-bootcamp-fullstack-developer-dio)
+   - [Manipulando o D.O.M](https://github.com/Silvio-Arem/DOM-bootcamp-fullstack-developer-dio)
 
-- [Desafio de Projeto TypeScript](https://github.com/Silvio-Arem/Desafio-Projeto-Bootcamp-Fullstack-Developer-DIO)
+- Desafio de Projeto utilizando TypeScript em sua base, confira [aqui](https://github.com/Silvio-Arem/Desafio-Projeto-Bootcamp-Fullstack-Developer-DIO).
 
-### Contatos Linkedin
+### Contatos Linkedin:
 
 - [Iglá Generoso](https://www.linkedin.com/in/iglageneroso).
 
@@ -70,7 +77,7 @@
 
 - [Douglas Araujo de Moura](https://www.linkedin.com/in/dougmoura).
 
-### Github/Gitlab dos Mestres
+### Github/Gitlab dos Mestres:
 
 - https://github.com/cami-la
 
@@ -90,7 +97,7 @@
 
 - https://github.com/douglasdemoura
 
-### Links Uteis
+### Links Uteis:
 
 - [Primeira Mentoria: Aula Inaugural](https://www.youtube.com/watch?v=mVmzdqa79dE)
 
