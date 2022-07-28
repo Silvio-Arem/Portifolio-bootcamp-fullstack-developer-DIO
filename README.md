@@ -1,18 +1,18 @@
-# Portifolio
+<h1 align="center">Portifolio</h1>
+<h2 align="center">Bootcamp Santander FullStack Developer 2022</h2>
+<div align="center">
+<img src="https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/blob/main/logo-bootcamp.png">
+</div>
+<h3 align="center">
+<b>Descrição:</b></h3>
 
-## Bootcamp Santander FullStack Developer 2022
-
-![Logo Bootcamp](/logo-bootcamp.png)
-
-### Descrição:
-
-Este Repositório refere-se ao Bootcamp Santander Fullstack Developer DIO 2022, ele tem o propósito de servir como uma espécie de Portfólio contendo os projetos (atividades, desafios e exercicios propostos), contatos (linkedin e GitHub dos mestres e todos os envolvidos), links importantes e os certificados de conclusão.
+<div align="justify">Este Repositório refere-se ao Bootcamp Santander Fullstack Developer DIO 2022, ele tem o propósito de servir como uma espécie de Portfólio contendo os projetos (atividades, desafios e exercicios propostos), contatos (linkedin e GitHub dos mestres e todos os envolvidos), links importantes e os certificados de conclusão.
 Ele será atualizado sempre que o progresso no Bootcamp for avançando.
-Espero que gostem de tudo que veram aqui!  
+Espero que gostem de tudo que veram aqui!</div>
 
-### Projetos:
+## Projetos:
 
-- Veja tudo o que foi construido com o curso de Introdução ao HTML clicando: [aqui](https://github.com/Silvio-Arem/curso-introducao-html).
+- [HTML](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/tree/main/HTML)
 
 - Pagina criada com o uso da ferramenta Flexbox como raiz da sua estilização, confira [aqui](https://github.com/Silvio-Arem/projeto-Flexbox-bootcamp-fullstack-developer-DIO).
 
