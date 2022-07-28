@@ -20,6 +20,8 @@ Espero que gostem de tudo que veram aqui!</div>
 
 - [TypeScript](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/tree/main/TypeScript)
 
+- [Angular](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/tree/main/Angular)
+
 ### Contatos Linkedin:
 
 - [Iglá Generoso](https://www.linkedin.com/in/iglageneroso).
