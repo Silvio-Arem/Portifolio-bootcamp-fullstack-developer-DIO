@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fundamentos - aling items</title>
+
+    <style>
+        .container{
+            max-width: 350px;
+            border: 1px solid black;
+            display: flex;
+        }
+
+        .item{
+            background-color: blueviolet;
+            margin: 5px;
+            color: white;
+            text-align: center;
+            flex: 1;
+        }
+        
+        .bold{
+            font-weight: bold;
+        }
+
+        .center{
+            align-items: center;
+        }
+
+        .stretch{
+            align-items: stretch;
+        }
+
+        .flex-start{
+            align-items: flex-start;
+        }
+
+        .flex-end{
+            align-items: flex-end;
+        }
+
+        .baseline{
+            align-items: baseline;
+        }
+
+        .column{
+            flex-direction: column;
+        }
+
+        .central{
+            height: 300px;
+            justify-content: center;
+        }
+
+        .central .item{
+            flex: 0;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <p class="bold">center</p>
+    <section class="container center">
+        <div class="item">item 1</div>
+        <div class="item">Loren ipsum dolor sit amet</div>
+        <div class="item">item 3 mais algum texto. Lipsum</div>
+    </section>
+
+    <p class="bold">stretch</p>
+    <section class="container stretch">
+        <div class="item">item 1</div>
+        <div class="item">Loren ipsum dolor Loren ipsum dolor sitametLoren ipsum dolor sitametLoren ipsum dolor sitametLoren ipsum dolor sitamet sitamet</div>
+        <div class="item">item 3 mais algum texto. Lipsum</div>
+    </section>
+
+    <p class="bold">flex-start</p>
+    <section class="container flex-start">
+        <div class="item">item 1</div>
+        <div class="item">Loren ipsum dolor sitamet</div>
+        <div class="item">item 3 mais algum texto. Lipsum</div>
+    </section>    
+
+    <p class="bold">flex-end</p>
+    <section class="container flex-end">
+        <div class="item">item 1</div>
+        <div class="item">Loren ipsum dolor sitamet</div>
+        <div class="item">item 3 mais algum texto. Lipsum</div>
+    </section>
+    
+    <p class="bold">baseline</p>
+    <section class="container baseline">
+        <div class="item"><br><br>item 1</div>
+        <div class="item">Loren ipsum dolor sitamet</div>
+        <div class="item">item 3 mais algum texto. Lipsum</div>
+    </section>
+
+    <h1>Column</h1>
+    <p class="bold">flex-start (column)</p>
+    <section class="container flex-start column">
+        <div class="item">item 1</div>
+        <div class="item">Loren ipsum dolor sitamet</div>
+        <div class="item">item 3 mais algum texto. Lipsum</div>
+    </section>   
+
+    <p class="bold">flex-end (column)</p>
+    <section class="container flex-end column">
+        <div class="item">item 1</div>
+        <div class="item">Loren ipsum dolor sitamet</div>
+        <div class="item">item 3 mais algum texto. Lipsum</div>
+    </section>
+
+    <p class="bold">center (column)</p>
+    <section class="container center column">
+        <div class="item">item 1</div>
+        <div class="item">Loren ipsum dolor sit amet</div>
+        <div class="item">item 3 mais algum texto. Lipsum</div>
+    </section>
+
+    <p class="bold">baseline (column)</p>
+    <section class="container baseline column">
+        <div class="item"><br><br>item 1</div>
+        <div class="item">Loren ipsum dolor sitamet</div>
+        <div class="item">item 3 mais algum texto. Lipsum</div>
+    </section>
+
+    <p class="bold">alinhamento central à tela</p>
+    <section class="container central center">
+        <div class="item">Loren Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</div>
+    </section>
+</body>
+</html>

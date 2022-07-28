@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fundamentos - flex basis</title>
+
+    <style>
+        .container{
+            max-width: 500px;
+            border: 1px solid black;
+            display: flex;
+        }
+
+        .item{
+            background-color: coral;
+            color: white;
+            text-align: center;
+            margin: 5px;
+        }
+
+        .p{
+            font-weight: bold;
+        }
+
+        .bauto{
+            flex-basis: auto;
+        }
+
+        .fg-0{
+            flex-grow: 0;
+        }
+
+        .fg-1{
+            flex-grow: 1;
+        }
+
+        .fg-2{
+            flex-grow: 2;
+        }
+
+        .b-0{
+            flex-basis: 0;
+        }
+
+        .w100{
+            flex-basis: 100px;
+        }
+    </style>
+</head>
+<body>
+    <p class="p">basis auto</p>
+    <div class="container">
+        <div class="item bauto fg-1">A</div>
+        <div class="item bauto fg-1">BBB</div>
+        <div class="item bauto fg-1">C</div>
+        <div class="item bauto fg-2">DEF</div>
+    </div>
+
+    <p class="p">basis 0 (zero)</p>
+    <div class="container">
+        <div class="item b-0 fg-1">AAAAAAAAA</div>
+        <div class="item b-0 fg-1">BBB</div>
+        <div class="item b-0 fg-1">C</div>
+        <div class="item b-0 fg-1">DEF</div>
+    </div>
+
+    <p class="p">basis + width</p>
+    <div class="container">
+        <div class="item w100 fg-2">AA</div>
+        <div class="item w100 fg-2">BBB</div>
+        <div class="item w100 fg-2">CCC</div>
+        <div class="item w100 fg-2">DEF</div>
+    </div>
+
+    <h1>Mais testes</h1>
+    <p class="p">basis vareando</p>
+    <div class="container">
+        <div class="item fg-0">AAA</div>
+        <div class="item w100 fg-2">BBB</div>
+        <div class="item fg-2">CCCCCCCCCCCCCCCCCCCCCCCCCCC</div>
+        <div class="item w100 fg-2">DEF</div>
+    </div>
+
+    <p class="p">basis vareando mais</p>
+    <div class="container">
+        <div class="item fg-0">AAA</div>
+        <div class="item w100 fg-1">BBB</div>
+        <div class="item fg-2">CCCCCCCCCCCCCCCCCCCCCCCCCCC</div>
+        <div class="item w100 b-0">DEFGHIJK</div>
+    </div>
+</body>
+</html>

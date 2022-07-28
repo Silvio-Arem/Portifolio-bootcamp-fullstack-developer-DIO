@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fundamentos - align self</title>
+    <style>
+        .flex-container{
+            max-width: 350px;
+            border: 1px solid black;
+            margin-bottom: 10px;
+            display: flex;
+            /* qualquer tipo de alinhamento no container, quebra o alinhamento dos itens, por exemplo "align-items: center;" */
+        }
+
+        .align-container{
+            align-items: center;
+        }
+
+        .item{
+            background-color: brown;
+            color: white;
+            font-size: 24px;
+            text-align: center;
+            margin: 5px;
+
+        }
+
+        .p{
+            font-weight: bold;
+        }
+
+        .direction{
+            flex-direction: column;
+        }
+
+        .center{
+            align-self: center;
+        }
+
+        .start{
+            align-self: flex-start;
+        }
+
+        .end{
+            align-self: flex-end;
+        }
+
+        .baseline{
+            align-self: baseline;
+        }
+
+        .stretch{
+            align-self: stretch;
+        }
+
+        .auto{
+            align-self: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="p">Row</h1>
+    <p class="p">align-self: alternados (row)</p>
+    <section class="flex-container align-container">
+        <div class="item auto">AAA</div>
+        <div class="item auto">123</div>
+        <div class="item auto">Loren Ipsum is therefore always free from repetition</div>
+        <div class="item auto">ITEM 4</div>
+    </section>
+
+    <section class="flex-container">
+        <div class="item center">AAA</div>
+        <div class="item start">123</div>
+        <div class="item stretch">Loren Ipsum is therefore always free from repetition</div>
+        <div class="item end">ITEM 4</div>
+    </section>
+
+    <section class="flex-container">
+        <div class="item center">AAA</div>
+        <div class="item start">AAA</div>
+        <div class="item end">AAA</div>
+        <div class="item stretch">Loren Ipsum is therefore always free from repetition</div>
+    </section>
+
+    <h1 class="p">Column</h1>
+    <p class="p">align-self: alternados (column)</p>
+    <section class="flex-container align-container direction">
+        <div class="item auto">AAA</div>
+        <div class="item auto">123</div>
+        <div class="item auto">Loren Ipsum is therefore always free from repetition</div>
+        <div class="item auto">ITEM 4</div>
+    </section>
+
+    <section class="flex-container direction">
+        <div class="item center">AAA</div>
+        <div class="item start">123</div>
+        <div class="item stretch">Loren Ipsum is therefore always free from repetition</div>
+        <div class="item end">ITEM 4</div>
+    </section>
+
+    <section class="flex-container direction">
+        <div class="item center">AAA</div>
+        <div class="item start">AAA</div>
+        <div class="item end">AAA</div>
+        <div class="item stretch">Loren Ipsum is therefore always free from repetition</div>
+    </section>
+</body>
+</html>
