@@ -1,4 +1,4 @@
-### Contatos Linkedin:
+## Contatos Linkedin:
 
 - [Iglá Generoso](https://www.linkedin.com/in/iglageneroso)
 
