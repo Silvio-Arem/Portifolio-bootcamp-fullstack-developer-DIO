@@ -1,0 +1,34 @@
+/* Metodo "Map":
+Cria um novo array, não modifica o original, abaixo a sintaxe: */
+
+array.map(callback, thisArg);
+
+/* realiza operações em orem.
+Exemplo: */
+
+const array = [1, 2, 3, 4, 5];
+
+
+array.map((item) => item * 2);
+
+console.log(item);
+
+/* Metodo "filter":
+Cria um novo array, não modifica o original, abaixo a sintaxe: */
+
+array.filter(callback, thisArg);
+
+/* Utilizado para filtrar os elementos de uma array com o uso de palavras chaves, por exemplo: */
+
+const frutas = ['maçã fuji', 'maçã verde', 'laranja', 'abacaxi'];
+
+frutas.filter((fruta) => fruta.includes('maçã'));
+
+/* Metodo "reduce":
+Executa uma função em todos os elementos do array, retornando um valor unico, abaixo a sintaxe */
+
+// callback: função a ser executada apartir do acumulador,
+// initialValue: valor sobre o qual o retorno final irá atuar.
+array.reduce(callbackFn, initialValue);
+
+
