@@ -14,34 +14,11 @@ Espero que gostem de tudo que veram aqui!</div>
 
 - [HTML](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/tree/main/HTML)
 
-- Pagina criada com o uso da ferramenta Flexbox como raiz da sua estilização, confira [aqui](https://github.com/Silvio-Arem/projeto-Flexbox-bootcamp-fullstack-developer-DIO).
+- [CSS](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/tree/main/CSS)
 
-- Recriando a página de login do Instagram com Flexbox e Responsividade ficou muito bacana! Clique [aqui](https://github.com/Silvio-Arem/projeto-instagram-bootcamp-fullstack-developer-DIO/tree/main) e confira.
+- [JavaScript](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/tree/main/JavaScript)
 
-- Atividades Práticas com o uso do JavaScript: 
-   - [Contador e To Do List](https://github.com/Silvio-Arem/fundamentos-javascript-bootcamp-fullstack-developer-DIO)
-
-   - [Testando Sintaxes e Operadores](https://github.com/Silvio-Arem/sintaxe-e-operadores-bootcamp-fullstack-developer-dio)
-
-   - [Variáveis e Tipos](https://github.com/Silvio-Arem/variaveis-e-tipos-bootcamp-fullstack-developer-dio)
-
-   - [Funções](https://github.com/Silvio-Arem/funcoes-bootcamp-fullstack-developer-dio)
-
-   - [Coleções Chaveadas (Map e Set)](https://github.com/Silvio-Arem/colecoes-chaveadas-bootcamp-fullstack-developer-dio)
-
-   - [Métodos: map, filter e reduce](https://github.com/Silvio-Arem/map-filter-reduce-bootcamp-fullstack-developer-dio)
-
-   - [Tratamento de erros no Js](https://github.com/Silvio-Arem/debugging-e-error-handling-bootcamp-fullstack-developer-dio)
-
-   - [Javascript Assíncrono](https://github.com/Silvio-Arem/javascript-assincrono-bootcamp-fullstack-developer-dio)
-
-   - [Orientação a Objetos](https://github.com/Silvio-Arem/orientacao-a-objetos-bootcamp-fullstack-developer-dio)
-
-   - [Moduos](https://github.com/Silvio-Arem/modulos-bootcamp-fullstack-developer-dio)
-
-   - [Manipulando o D.O.M](https://github.com/Silvio-Arem/DOM-bootcamp-fullstack-developer-dio)
-
-- Desafio de Projeto utilizando TypeScript em sua base, confira [aqui](https://github.com/Silvio-Arem/Desafio-Projeto-Bootcamp-Fullstack-Developer-DIO).
+- [TypeScrip]()
 
 ### Contatos Linkedin:
 
