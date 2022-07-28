@@ -18,7 +18,7 @@ Espero que gostem de tudo que veram aqui!</div>
 
 - [JavaScript](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/tree/main/JavaScript)
 
-- [TypeScript]()
+- [TypeScript](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/tree/main/TypeScript)
 
 ### Contatos Linkedin:
 
