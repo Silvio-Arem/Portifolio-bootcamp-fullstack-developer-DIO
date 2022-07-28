@@ -26,6 +26,6 @@ Espero que gostem de tudo que veram aqui!</div>
 
 - [Linkedin](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/blob/main/Contatos/contatosLinkedin.md)
 
-- [Git dos  Mestres]()
+- [Git dos  Mestres](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/blob/main/Contatos/contatosGitMestres.md)
 
-- [Links Úteis]()
+- [Links Úteis](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/blob/main/Links/linksUteis.md)
