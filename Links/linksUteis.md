@@ -25,3 +25,5 @@
 - [Quarta Mentoria: Consumindo APIs a partir de front-end Angular com um back-end Java](https://www.youtube.com/watch?v=ILW1PBqiBuk)
 
 - [Site do instrutor de TypeScript Douglas Moura](https://douglasmoura.dev/)
+
+- [Documentação Angular](https://angular.io/docs)

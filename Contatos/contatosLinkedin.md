@@ -31,3 +31,5 @@
 - [Wiley Marques](https://www.linkedin.com/in/wilmarques)
 
 - [Douglas Araujo de Moura](https://www.linkedin.com/in/dougmoura)
+
+- [Wesllhey Holanda](https://www.linkedin.com/in/wesllhey-holanda)
