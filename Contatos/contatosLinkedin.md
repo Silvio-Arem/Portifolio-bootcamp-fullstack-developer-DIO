@@ -33,3 +33,5 @@
 - [Douglas Araujo de Moura](https://www.linkedin.com/in/dougmoura)
 
 - [Wesllhey Holanda](https://www.linkedin.com/in/wesllhey-holanda)
+
+- [Camila Ferreira Ribeiro](https://www.linkedin.com/in/camila-ferreira-ribeiro)

@@ -27,3 +27,7 @@
 - [Site do instrutor de TypeScript Douglas Moura](https://douglasmoura.dev/)
 
 - [Documentação Angular](https://angular.io/docs)
+
+- [Angular Material](https://material.angular.io/)
+
+- [Guia de Testes em Angular](https://angular.io/guide/testing)
