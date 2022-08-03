@@ -21,3 +21,5 @@
 - https://github.com/wesllhey
 
 - https://github.com/cahferreira93
+
+- https://github.com/ivosoares

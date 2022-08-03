@@ -35,3 +35,5 @@
 - [Wesllhey Holanda](https://www.linkedin.com/in/wesllhey-holanda)
 
 - [Camila Ferreira Ribeiro](https://www.linkedin.com/in/camila-ferreira-ribeiro)
+
+- [Ivo Soares](https://www.linkedin.com/in/ivo-soares)
