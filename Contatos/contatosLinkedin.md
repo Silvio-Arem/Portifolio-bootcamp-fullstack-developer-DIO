@@ -37,3 +37,5 @@
 - [Camila Ferreira Ribeiro](https://www.linkedin.com/in/camila-ferreira-ribeiro)
 
 - [Ivo Soares](https://www.linkedin.com/in/ivo-soares)
+
+- [Nathalia Corrêa](https://www.linkedin.com/in/nathalia-corr%C3%AAa-bb6a9414b/)
