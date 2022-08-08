@@ -1,19 +1,4 @@
 <h1>Debugging Java</h1>
-<p>Curso que apresenta conceitos introdutórios sobre como podemos trabalhar com debugging na linguagem Java. 
-Curso este ministrado por mim em nome da <strong> <a href="https://web.digitalinnovation.one/home"> DIGITAL INNOVATION ONE  </a></strong> 🧡💛 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
-
-<h2>
-🛑 Pré-requistos
-</h2>
-
-- [x] Java JDK 8 ou superior
-- [x] IDE para desenvolvimento Java
-
-<h2> 📚 Ementa</h2>
-<ol>
-    <li>Visão Geral</li>
-    <li>Pilha de Execução de um programa Java</li>
-</ol>
 
 <h2>Visão Geral</h2>
 
@@ -65,27 +50,3 @@ Curso este ministrado por mim em nome da <strong> <a href="https://web.digitalin
     <li>https://www.caelum.com.br/apostila-java-orientacao-objetos/excecoes-e-controle-de-erros#exercicio-para-comecar-com-os-conceitos</li>
 </ul>
 
-<h2>✨ ️Redes Socias</h2>
-<p align="center">
-<a href="https://www.youtube.com/channel/UCqchrwxLd023IrA8KlCpH9g">YouTube</a> ▪️
-<a href="https://www.instagram.com/estudant.i/">Instagram 1</a> ▪️
-<a href="https://www.instagram.com/camimi_la/">Instagram 2</a> ▪️
-<a href="https://www.linkedin.com/in/cami-la/">LinkedIn</a>
-</p>
-
-
-<h2> 🤝 Contribuindo </h2>
-
-Este repositório foi criado para fins de estudo, então contribua com ele.
-Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
-
-Se possível:
-
-⭐️  Star o projeto
-
-🐛 Encontrar e relatar issues
-
-
-------------
-
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
