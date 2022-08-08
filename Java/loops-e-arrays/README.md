@@ -2,26 +2,6 @@
 ESTRUTURAS DE REPETIÇÃO E ARRAYS COM JAVA
 </h1>
 
-<p>Resolução dos exercícios propostos: <strong>ESTRUTURAS DE REPETIÇÃO E ARRAYS NA LINGUAGEM JAVA</strong>.
-Curso este que tive a honra de co-criar com a plataforma de cursos online <strong> <a href="https://web.digitalinnovation.one/home"> DIGITAL INNOVATION ONE  </a></strong> 🧡💛 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.
-
-<h2>
-🛑 Pré-requistos
-</h2>
-
-- [x] Java JDK 11
-- [x] IDE para desenvolvimento Java 
-- [x] Conhecer a sintaxe Java
-
-<h2> 📚 Ementa</h2>
-
-Ao assistir este curso, Dev será capaz de entender na prática como trabalhar com as estruturas de repetição (while/do-while/for) e arrays. Se tratando de arrays, também vamos conhecer a estrutura foreach.
-
-👀 <a href="https://docs.google.com/presentation/d/1G3MDuxTjdEGcDBguVoanbP9-xipy8v46/edit?usp=sharing&ouid=114707527529839266022&rtpof=true&sd=true" target="_blank"> Visão geral: Estruturas de Repetição e Arrays</a> <br>
-
-➿ <a href="https://github.com/cami-la/loops-e-arrays/tree/master/src/br/com/dio/exercicios/loops"> Exercícios Loops</a><br>
-
-⛓ <a href="https://github.com/cami-la/loops-e-arrays/tree/master/src/br/com/dio/exercicios/arrays"> Exercícios Arrays</a><br>
 
 <h2> ➿ ESTRUTURAS DE REPETIÇÃO </h2>
 
@@ -130,19 +110,3 @@ Ao final, mostre os números e seus sucessores.<br>
 🔗 http://www.inf.ufsc.br/~frank.siqueira/INE5404/7.Arrays.pdf<br>
 	
 	
-<h2> 🤝 Contribuindo </h2>
-
-Este repositório foi criado para fins de estudo, então contribua com ele.<br>
-Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
-
-Se possível:
-
-⭐️  Star o projeto
-
-🐛 Encontrar e relatar issues
-
-
-------------
-
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
-
