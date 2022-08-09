@@ -12,19 +12,19 @@ Espero que gostem de tudo que veram aqui!</div>
 
 ## Projetos:
 
-- [HTML](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/tree/main/HTML)
+- [HTML](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/tree/main/Projetos/HTML)
 
-- [CSS](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/tree/main/CSS)
+- [CSS](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/tree/main/Projetos/CSS)
 
-- [JavaScript](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/tree/main/JavaScript)
+- [JavaScript](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/tree/main/Projetos/JavaScript)
 
-- [TypeScript](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/tree/main/TypeScript)
+- [TypeScript](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/tree/main/Projetos/TypeScript)
 
-- [Angular](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/tree/main/Angular)
+- [Angular](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/tree/main/Projetos/Angular)
 
-- [Java](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/tree/main/Java)
+- [Java](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/tree/main/Projetos/Java)
 
-- [Spring Framework](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/tree/main/SpringBoot)
+- [Spring Framework](https://github.com/Silvio-Arem/Portifolio-bootcamp-fullstack-developer-DIO/tree/main/Projetos/SpringBoot)
 
 ## Contatos e Links Úteis:
 
